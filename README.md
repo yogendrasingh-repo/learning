@@ -2,7 +2,7 @@
 
 This project demonstrates the implementation of a Spring Cloud Config Server to manage the external configuration for distributed systems.
 
-Check out the project https://github.com/yogendrasingh-repo/microservice-one.git 
+Please use service https://github.com/yogendrasingh-repo/microservice-one.git  as a config client
 
 ## Features
 
